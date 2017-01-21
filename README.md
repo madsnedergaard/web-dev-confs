@@ -4,6 +4,8 @@ Upcoming web dev conferences
 
 My personal, curated list of awesome web development conferences in Europe!
 
+Similar projects: [ryanburgess/2017-conferences](https://github.com/ryanburgess/2017-conferences), [watson/conferences](https://github.com/watson/conferences), [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences).
+
 ---
 
 ## 2017: Spring
@@ -24,9 +26,6 @@ _2 days_, _1 track_
 - Coding art
 - CSS, HTML, JS
 
-#### Why you should go:
-- ?
-
 ### [Beyond Tellerand](https://beyondtellerrand.com/)  _(Düsseldorf, Germany - 15-17. May 2017)_
 
 > Beyond Tellerrand is an affordable web design and development event taking place in Düsseldorf and Berlin. btconf is an event for Web enthusiasts.
@@ -40,10 +39,6 @@ _2 Days_, _1 track_
 - Front-end
 - Web performance
 - CSS, HTML, JS
-
-#### Why you should go:
-- ?
-
 
 ### [Front-Trends](https://2017.front-trends.com/) _(Warsaw, Poland - 24-26. May 2017)_
 
@@ -61,8 +56,24 @@ _2 Days_, _1 track_
 - JS (frameworks, tools, etc.)
 - CSS
 
-#### Why you should go:
-- ?
+---
+## 2017: Summer
+
+### [Web Rebels](https://webrebels.org/)  _(Oslo, Norway - 1. - 2. June 2017)_
+
+> ...
+
+ #### Format:
+
+_2 Days_, _1 track_
+
+#### Themes:
+
+- CSS
+- JS
+- UX
+- Web performance
+
 
 ---
 
@@ -83,10 +94,6 @@ _2 Days_, _2 tracks_
 - UX
 - Web performance
 
-#### Why you should go:
-- ?
-
-
 
 ### [Nordic.js](http://nordicjs.com/)  _(Stockholm, Sweden - 7. - 8. September 2017)_
 
@@ -99,9 +106,6 @@ _2 Days_, _1 track_
 #### Themes:
 
 - ...
-
-#### Why you should go:
-- ?
 
 
 ### [Coldfront](http://coldfrontconf.com) _(Denmark, Copenhagen - Fall 2017)_
