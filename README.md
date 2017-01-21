@@ -26,6 +26,13 @@ _2 days_, _1 track_
 - Coding art
 - CSS, HTML, JS
 
+#### Tickets:
+
+- ~~Early bird  £299 + VAT~~ [_sold out_]
+- Standard    £399 + VAT (3.400 DKK)
+- Last chance £449 + VAT
+
+
 ### [Beyond Tellerand](https://beyondtellerrand.com/)  _(Düsseldorf, Germany - 15-17. May 2017)_
 
 > Beyond Tellerrand is an affordable web design and development event taking place in Düsseldorf and Berlin. btconf is an event for Web enthusiasts.
@@ -39,6 +46,11 @@ _2 Days_, _1 track_
 - Front-end
 - Web performance
 - CSS, HTML, JS
+
+#### Tickets:
+
+- ~~Early bird~~ [_sold out_]
+- Standard €279 (2.000 DKK)
 
 ### [Front-Trends](https://2017.front-trends.com/) _(Warsaw, Poland - 24-26. May 2017)_
 
@@ -56,24 +68,9 @@ _2 Days_, _1 track_
 - JS (frameworks, tools, etc.)
 - CSS
 
----
-## 2017: Summer
+#### Tickets:
 
-### [Web Rebels](https://webrebels.org/)  _(Oslo, Norway - 1. - 2. June 2017)_
-
-> ...
-
- #### Format:
-
-_2 Days_, _1 track_
-
-#### Themes:
-
-- CSS
-- JS
-- UX
-- Web performance
-
+- Standard €389 (2.900 DKK)
 
 ---
 
@@ -94,19 +91,9 @@ _2 Days_, _2 tracks_
 - UX
 - Web performance
 
+#### Tickets:
 
-### [Nordic.js](http://nordicjs.com/)  _(Stockholm, Sweden - 7. - 8. September 2017)_
-
-> ...
-
-#### Format:
-
-_2 Days_, _1 track_
-
-#### Themes:
-
-- ...
-
+- ???
 
 ### [Coldfront](http://coldfrontconf.com) _(Denmark, Copenhagen - Fall 2017)_
 
@@ -122,8 +109,22 @@ _1 Day_, _1 track_
 - Front-end development
 - Web performance
 
+#### Tickets:
+
+- ???
+
+
 #### Why you should go:
 
 - Nice settings
 - Good talks
 - Beer 🍻
+
+
+---
+
+## TODO
+
+- Add more conferences:
+    + Web Rebels
+    + Nordic.js
